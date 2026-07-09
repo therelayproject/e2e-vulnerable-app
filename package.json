@@ -1,0 +1,6 @@
+{
+  "name": "e2e-vulnerable-app",
+  "version": "1.0.0",
+  "description": "Minimal test app for Constantine e2e pipeline (intentional vulnerabilities)",
+  "main": "server.js"
+}
